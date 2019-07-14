@@ -1,0 +1,12 @@
+D:\CPP\RabbitMQNet40\Publisher\bin\Debug\Publisher.exe.config
+D:\CPP\RabbitMQNet40\Publisher\bin\Debug\Publisher.exe
+D:\CPP\RabbitMQNet40\Publisher\bin\Debug\Publisher.pdb
+D:\CPP\RabbitMQNet40\Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\CPP\RabbitMQNet40\Publisher\bin\Debug\RabbitMQ.ServiceModel.dll
+D:\CPP\RabbitMQNet40\Publisher\bin\Debug\RabbitMQ.Client.xml
+D:\CPP\RabbitMQNet40\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+D:\CPP\RabbitMQNet40\Publisher\obj\Debug\Publisher.Form1.resources
+D:\CPP\RabbitMQNet40\Publisher\obj\Debug\Publisher.Properties.Resources.resources
+D:\CPP\RabbitMQNet40\Publisher\obj\Debug\Publisher.csproj.GenerateResource.Cache
+D:\CPP\RabbitMQNet40\Publisher\obj\Debug\Publisher.exe
+D:\CPP\RabbitMQNet40\Publisher\obj\Debug\Publisher.pdb
